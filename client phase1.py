@@ -5,11 +5,7 @@
 ## 
  
  
-            ############################## 
-                   #### phase 1 ## 
-            ############################## 
- 
-                     ## part 1 ## 
+
  
  
 import socket 
@@ -17,8 +13,12 @@ import socket
  
 print("SAEED NOROUZI\n") 
 print("HAMID AKHAVAN\n") 
-  
+
+            ############################## 
+                   #### phase 1 ## 
+            ############################## 
  
+                     ## part 1 ## 
  
  
 def check_server_status(server_ip, port): 
